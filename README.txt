@@ -1,0 +1,4 @@
+Betafpv Cetus X custom frame "Tadpole" by reeson2003 on Thingiverse: https://www.thingiverse.com/thing:6159418
+
+Summary:
+Custom frame to convert you Betafpv Cetus X whoop into toothpick. Includes optional ducts. I printed with 20% gyroid infill frame, 5% cross3d infill canopy, 3% cross3d infill ducts and I got weight only 4 grams havier than original Cetus X frame. Without ducts it 12 grams lighter than original frame. Required 4 2.5x16 screws. Compatible only with betaflight elrs version.Print settingsmodelmaterialinfillsupportsframepetg20yescanopytpu5yesductspetg3nobattery mounttpu100nobattery mount lockpetg100no
