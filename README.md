@@ -10,3 +10,10 @@ To see my flight, checkout my [Phoenix Pilot](https://www.youtube.com/@PhoenixPi
 I am imaging building a larger 5" or 7" toothpick drone for more outdoor activities.    
 
 Checkout my other projects at [Peli's sci-fi workshop](https://driter7958.github.io/Peli_sci-fi_workshop/)
+
+
+## Bigger, Badder, Beefer quad drone
+
+| component | description | comments |
+| --------- | ----------- | -------- |
+|           |             |          |
