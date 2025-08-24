@@ -16,4 +16,7 @@ Checkout my other projects at [Peli's sci-fi workshop](https://driter7958.github
 
 | component | description | comments |
 | --------- | ----------- | -------- |
+|           | camera      |          |
+|           | FC          |          |
+|           | chassis     |          |
 |           |             |          |
