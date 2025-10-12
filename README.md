@@ -3,8 +3,17 @@ FPV drone build
 
 My quad flying journey...    I started with a whoop drone....  Adding a 5" toothpick racing quad to my fleet.  
 
-My tiny whoop...   [Cetus X FPV Kit](https://betafpv.com/products/cetus-x-fpv-kit?variant=39948655394950)
+My tiny whoop...   [Cetus X FPV Kit](https://betafpv.com/products/cetus-x-fpv-kit?variant=39948655394950)    was lost ton the winds.  
 Should I replace it???    how to tune it out to make it less sensitive to fly indoors?   
+
+<span style="color: red; font-weight: 900; font-size:1.5em;">Above all have fun!   This is not project work!  </span>
+
+| season       | milestone                                     | thing              | description |
+| ------------ | --------------------------------------------- | ------------------ | ----------- |
+| Autumn  (Q4) | Basic skills and indoor configuration tunning | meteror AIR Neebei |             |
+| Winter (Q1)  | Refine control skills with gates              |                    |             |
+| Spring (Q2)  | Go to outdoors with bigger quad               | 7" quad            |             |
+| Summer (Q3)  | Continue to have fun                          |                    |             |
 
 Checkout my other projects at [Peli's sci-fi workshop](https://driter7958.github.io/Peli_sci-fi_workshop/)
 
