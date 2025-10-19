@@ -8,12 +8,12 @@ Should I replace it???    how to tune it out to make it less sensitive to fly in
 
 <span style="color: red; font-weight: 900; font-size:1.5em;">Above all have fun!   This is not project work!  </span>
 
-| season       | milestone                                     | thing                                                                                                                                      | description |
-| ------------ | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
-| Autumn  (Q4) | Basic skills and indoor configuration tunning | Phoenix... meteror... AIR... Neebei...                                                                                                     |             |
-| Winter (Q1)  | Refine control skills with gates              |                                                                                                                                            |             |
-| Spring (Q2)  | Go to outdoors with bigger quad               | 7" quad...   Analog VTX and CADDX camera included...<br>https://geprc.com/product/geprc-vapor-x5-analog-freestyle-fpv-drone/   (preferred) |             |
-| Summer (Q3)  | Continue to have fun                          |                                                                                                                                            |             |
+| season       | milestone                                     | thing                                                                                                                                                                                | description |
+| ------------ | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
+| Autumn  (Q4) | Basic skills and indoor configuration tunning | Phoenix replacement... <br></br>meteror...  https://www.racedayquads.com/products/betafpv-meteor75-pro-2024-brushless-whoop-analog-w-c03-camera-elrs-2-4ghz?keyword=betafpv%20meteor |             |
+| Winter (Q1)  | Refine control skills with gates              |                                                                                                                                                                                      |             |
+| Spring (Q2)  | Go to outdoors with bigger quad               | 7" quad...   Analog VTX and CADDX camera included...<br>https://geprc.com/product/geprc-vapor-x5-analog-freestyle-fpv-drone/   (preferred)                                           |             |
+| Summer (Q3)  | Continue to have fun                          |                                                                                                                                                                                      |             |
 
 Checkout my other projects at [Peli's sci-fi workshop](https://driter7958.github.io/Peli_sci-fi_workshop/)
 
