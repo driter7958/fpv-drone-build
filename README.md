@@ -14,6 +14,11 @@ Should I replace it???    how to tune it out to make it less sensitive to fly in
 | Winter (Q1)  | Refine control skills with gates              |                                                                                                                                                                                      |             |
 | Spring (Q2)  | Go to outdoors with bigger quad               | 7" quad...   Analog VTX and CADDX camera included...<br>https://geprc.com/product/geprc-vapor-x5-analog-freestyle-fpv-drone/   (preferred)                                           |             |
 | Summer (Q3)  | Continue to have fun                          |                                                                                                                                                                                      |             |
+|              |                                               |                                                                                                                                                                                      |             |
+
+[[Rates tuning]]
+
+
 
 Checkout my other projects at [Peli's sci-fi workshop](https://driter7958.github.io/Peli_sci-fi_workshop/)
 
