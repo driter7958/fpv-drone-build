@@ -5,7 +5,14 @@ Checkout my other projects at [Peli's sci-fi workshop](https://driter7958.github
 To see my flights, checkout my [Phoenix Pilot](https://www.youtube.com/@PhoenixPilot7958) you tube channel.   
 
 <span style="color: red; font-weight: 900; font-size:1.5em;">Above all have fun!   This is not project work!  </span>
-blank line below
+
+
+
+| season 2     | milestone                                     | description |
+| ------------ | --------------------------------------------- | ----------- |
+| Autumn  (Q4) | Basic skills and indoor configuration tunning |             |
+
+
 
 | season       | milestone                                     | Description                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ------------ | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

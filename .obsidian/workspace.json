@@ -15,7 +15,7 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "README"
@@ -169,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf4c3b1a8376e25b",
+  "active": "f0c87eae907e7be6",
   "lastOpenFiles": [
     "My inventory.md",
     "README.md",
