@@ -19,11 +19,7 @@ To see my flights, checkout my [Phoenix Pilot](https://www.youtube.com/@PhoenixP
 |              |                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                   |       |
 
 [Rates tuning](Rates%20tuning.md)
-
 [My inventory](My%20inventory.md)
-
-
-
 Possible Buys...   
 must add VTX and camera....    
 https://geprc.com/product/geprc-mark5-o4-pro-dc-wtfpv-drone/
