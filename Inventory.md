@@ -12,3 +12,33 @@ the items I have in my spare part stores....
 
 
 ![](assets/Pasted%20image%2020260104181616.png)
+### ✅ Which is better for Leopard (5" freestyle)?
+
+- **If you only need GPS Rescue:** **HGLRC M100** (lighter, easier to mount).
+- **If you want full navigation or plan to use iNav:** **Matek M10Q-5883** (compass included, better for long-range).
+
+![](assets/Pasted%20image%2020260104181936.png)
+
+### ✅ Verdict:
+
+- **BETAFPV 1103 11000KV** is **NOT a good alternative for Dragonfly** because:
+    
+    - Dragonfly is designed for **3" props**, which require more torque than 1103 can provide.
+    - 1103 motors are optimized for **2" builds**, not 3".
+    - Using 1103 on Dragonfly would result in **poor performance**, overheating, and short flight times.
+- **Stick with 1106 motors (or similar)** for Dragonfly to maintain proper thrust and efficiency.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
