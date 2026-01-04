@@ -6,8 +6,6 @@ To see my flights, checkout my [Phoenix Pilot](https://www.youtube.com/@PhoenixP
 
 <span style="color: red; font-weight: 900; font-size:1.5em;">Above all have fun!   This is not project work!  </span>
 
-
-
 | season 2     | milestone                                     | description                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ------------ | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Autumn  (Q4) | Basic skills and indoor configuration tunning |                                                                                                                                                                                                                                                                                                                                                                                                                                   |
@@ -20,10 +18,12 @@ To see my flights, checkout my [Phoenix Pilot](https://www.youtube.com/@PhoenixP
 | Summer (Q3)  | Continue to have fun                          |                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |              |                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
-
+stuff
 
 [Rates tuning](Rates%20tuning.md)
+
 [My inventory](My%20inventory.md)
+
 Possible Buys...   
 must add VTX and camera....    
 https://geprc.com/product/geprc-mark5-o4-pro-dc-wtfpv-drone/

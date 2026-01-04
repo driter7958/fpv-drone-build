@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My inventory.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My inventory"
+              "title": "README"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "cf4c3b1a8376e25b",
   "lastOpenFiles": [
-    "README.md",
     "My inventory.md",
+    "README.md",
     "Rates tuning.md",
     "rates Screenshot 2025-11-02 104800.png",
     "ill of Materials.md",
