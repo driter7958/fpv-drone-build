@@ -1,10 +1,14 @@
 # FPV quad drone build
 
 Checkout my other projects at [Peli's sci-fi workshop](https://driter7958.github.io/Peli_sci-fi_workshop/)
-changge
+
 To see my flights, checkout my [Phoenix Pilot](https://www.youtube.com/@PhoenixPilot7958) you tube channel.   
 
 <span style="color: red; font-weight: 900; font-size:1.5em;">Above all have fun!   This is not project work!  </span>
+
+| new1 | new 2 |
+| ---- | ----- |
+| old2 | old3  |
 
 | season       | milestone                                     | Description                                                                                                                                                                                                                                                                                                                                                                                                                       | Notes |
 | ------------ | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
