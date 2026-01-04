@@ -20,9 +20,9 @@ To see my flights, checkout my [Phoenix Pilot](https://www.youtube.com/@PhoenixP
 
 stuff
 
-[Rates tuning](Rates%20tuning.md)
+[RatesTuning](RatesTuning.md)
 
-[My inventory](My%20inventory.md)
+[Inventory](Inventory.md)
 
 Possible Buys...   
 must add VTX and camera....    
