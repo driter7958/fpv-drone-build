@@ -8,13 +8,7 @@ To see my flights, checkout my [Phoenix Pilot](https://www.youtube.com/@PhoenixP
 
 
 
-| season 2     | milestone                                     | description |
-| ------------ | --------------------------------------------- | ----------- |
-| Autumn  (Q4) | Basic skills and indoor configuration tunning |             |
-
-
-
-| season       | milestone                                     | Description                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| season 2     | milestone                                     | description                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ------------ | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Autumn  (Q4) | Basic skills and indoor configuration tunning |                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |              | Phoenix replacement...                        | [BETAFPV Meteor75 Pro 2024 Brushless Whoop Analog w/ C03 Camera - ELRS 2.4GHz]( https://www.racedayquads.com/products/betafpv-meteor75-pro-2024-brushless-whoop-analog-w-c03-camera-elrs-2-4ghz?keyword=betafpv%20meteor)<br><br>![](https://www.racedayquads.com/cdn/shop/files/betafpv-pre-order-betafpv-meteor75-pro-2024-brushless-whoop-analog-w-c03-camera-elrs-2-4ghz-quad-32464949313649.jpg?v=1736977729&width=1200)<br> |
@@ -25,7 +19,9 @@ To see my flights, checkout my [Phoenix Pilot](https://www.youtube.com/@PhoenixP
 | Spring (Q2)  | Go to outdoors with bigger quad               | quad...   Analog VTX and CADDX camera included...<br>https://geprc.com/product/geprc-vapor-x5-analog-freestyle-fpv-drone/   (preferred)                                                                                                                                                                                                                                                                                           |
 | Summer (Q3)  | Continue to have fun                          |                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |              |                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-retry
+
+
+
 [Rates tuning](Rates%20tuning.md)
 [My inventory](My%20inventory.md)
 Possible Buys...   
