@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94eb37b8053113b1",
+            "id": "cf4c3b1a8376e25b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,11 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94eb37b8053113b1",
+  "active": "cf4c3b1a8376e25b",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Rates tuning.md",
+    "My inventory.md",
+    "ill of Materials.md",
     "README.md",
+    "Rates tuning.md",
     "Untitled.base",
     "Untitled 2.base",
     "Untitled 1.base",

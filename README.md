@@ -1,7 +1,5 @@
 # FPV quad drone build
-FPV drone build 
-
-My quad flying journey...    I started with a whoop drone....  Adding a 5" toothpick racing quad to my fleet.  
+FP build (3 or 5)[My inventory](My%20inventory.md)[My inventory](My%20inventory.md) My| ---- | ----------- | -------------------------------------------------------------------------------- |th a whoop drone....  Ad                                                                                 pick racing quad to my fleet.  
 
 My tiny whoop...   [Cetus X FPV Kit](https://betafpv.com/products/cetus-x-fpv-kit?variant=39948655394950)    was lost ton the winds.  
 Should I replace it???    how to tune it out to make it less sensitive to fly indoors?   
@@ -20,7 +18,7 @@ Should I replace it???    how to tune it out to make it less sensitive to fly in
 
 [[Rates tuning]]
 
-
+[My inventory](My%20inventory.md)
 
 Checkout my other projects at [Peli's sci-fi workshop](https://driter7958.github.io/Peli_sci-fi_workshop/)
 
