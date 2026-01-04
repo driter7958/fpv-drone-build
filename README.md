@@ -17,7 +17,7 @@ To see my flights, checkout my [Phoenix Pilot](https://www.youtube.com/@PhoenixP
 | Spring (Q2)  | Go to outdoors with bigger quad               | quad...   Analog VTX and CADDX camera included...<br>https://geprc.com/product/geprc-vapor-x5-analog-freestyle-fpv-drone/   (preferred)                                                                                                                                                                                                                                                                                           |       |
 | Summer (Q3)  | Continue to have fun                          |                                                                                                                                                                                                                                                                                                                                                                                                                                   |       |
 |              |                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                   |       |
-
+retry
 [Rates tuning](Rates%20tuning.md)
 [My inventory](My%20inventory.md)
 Possible Buys...   
